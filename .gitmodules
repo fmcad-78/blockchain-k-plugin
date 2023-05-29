@@ -1,0 +1,12 @@
+[submodule "deps/cpp-httplib"]
+	path = deps/cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib.git
+[submodule "deps/cryptopp"]
+	path = deps/cryptopp
+	url = https://github.com/weidai11/cryptopp
+[submodule "deps/libff"]
+	path = deps/libff
+	url = https://github.com/scipr-lab/libff
+[submodule "deps/secp256k1"]
+	path = deps/secp256k1
+	url = https://github.com/bitcoin-core/secp256k1
